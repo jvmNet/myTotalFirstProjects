@@ -166,4 +166,8 @@ public class AbstractFactoryMethod {
 
         throw new RuntimeException("No Supported lang" + " " + lang);
     }
-}
+
+    private void print(){
+        // TODO...
+
+    }}
